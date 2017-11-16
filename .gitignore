@@ -73,3 +73,5 @@ Residential_418/Intermediate/*
 
 # Cache files for the editor to use
 Residential_418/DerivedDataCache/*
+/Residential_418/Saved
+/Residential_418/Intermediate
